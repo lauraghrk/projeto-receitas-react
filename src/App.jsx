@@ -1,11 +1,14 @@
 import './App.css'
-import CardReceita from './components/CardReceita/CardReceita'
+import Header from './components/Header/Header'
+import SecaoReceitas from './components/SecaoReceitas/SecaoReceitas'
+import Footer from './components/Footer/Footer'
 
 function App() {
   return (
     <div className="App">
-      <h1>Vou ter que cozinhar</h1>
-      <CardReceita />
+      <Header />
+      <SecaoReceitas />
+      <Footer />
     </div>
   )
 }
