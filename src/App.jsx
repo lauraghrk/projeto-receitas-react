@@ -1,7 +1,8 @@
-import './App.css'
-import Header from './components/Header/Header'
-import SecaoReceitas from './components/SecaoReceitas/SecaoReceitas'
-import Footer from './components/Footer/Footer'
+import Header from './components/Header'
+import SecaoReceitas from './components/SecaoReceitas'
+import Footer from './components/Footer'
+
+import './styles/global.css'
 
 function App() {
   return (

@@ -1,4 +1,4 @@
-import style from './CardReceita.css'
+import './styles.css'
 
 function CardReceita({nome, descricao, imagem}) {
     return (

@@ -1,0 +1,8 @@
+.card {
+    font-family: var(--fontecorpo);
+    margin: 15px;
+    max-width: 200px;
+}
+img {
+    width: 200px;
+}
