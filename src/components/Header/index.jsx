@@ -3,7 +3,7 @@ import './styles.css'
 function Header() {
     return (
         <div className="header">
-            <h1>Vou ter que cozinhar</h1>
+            <h1>Vou Ter Que Cozinhar</h1>
             <nav>
                 <a href="index.html">Home</a>
                 <a href="#">Salgados</a>
