@@ -1,6 +1,6 @@
 import Header from './components/Header'
-import SecaoReceitas from './components/SecaoReceitas'
 import Footer from './components/Footer'
+import SecaoReceitas from './components/SecaoReceitas'
 
 import './styles/global.css'
 
