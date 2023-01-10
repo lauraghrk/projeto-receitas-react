@@ -1,16 +1,27 @@
+import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
+
 import Header from './components/Header'
 import Footer from './components/Footer'
-import SecaoReceitas from './components/SecaoReceitas'
+
+import Home from './pages/Home'
+import Doces from './pages/Doces'
+import Salgados from './pages/Salgados'
+import Sobre from './pages/Sobre'
 
 import './styles/global.css'
 
 function App() {
   return (
-    <div className="App">
-      <Header />
-      <SecaoReceitas />
-      <Footer />
-    </div>
+      <Router>
+        <Header />
+        <Routes>
+          <Route path='/' element={<Home />} />
+          <Route path='/doces' element={<Doces />} />
+          <Route path='/salgados' element={<Salgados />} />
+          <Route path='/sobre' element={<Sobre />} />
+        </Routes>
+        <Footer />
+      </Router>
   )
 }
 
