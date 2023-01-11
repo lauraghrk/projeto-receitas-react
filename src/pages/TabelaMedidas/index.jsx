@@ -1,8 +1,10 @@
+import './style.css'
+
 function TabelaMedidas() {
     return (
-        <>
-            <h2>Tabela de medidas</h2>
-        </>
+        <section className='container'>
+
+        </section>
     )
 }
 
