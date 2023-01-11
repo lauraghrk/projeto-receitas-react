@@ -1,8 +1,12 @@
 .footer {
+    font-family: var(--fontecorpo);
     background-color: var(--cor05);
     text-align: center;
-    min-height: 35px;
-    font-family: var(--fontecorpo);
+    height: 35px;
+    
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 .footer > p {
     color: var(--cor04);

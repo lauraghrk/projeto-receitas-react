@@ -6,11 +6,6 @@
     border-radius: 5px;
     font-family: var(--fontecorpo);
 }
-.tituloSecao {
-    margin: 10px;
-    padding-left: 50px;
-    font-size: 2em;
-}
 .receitas {
     display: flex;
     justify-content: space-evenly;

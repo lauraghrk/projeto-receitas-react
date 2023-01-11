@@ -4,9 +4,8 @@ import Header from './components/Header'
 import Footer from './components/Footer'
 
 import Home from './pages/Home'
-import Doces from './pages/Doces'
-import Salgados from './pages/Salgados'
 import Sobre from './pages/Sobre'
+import Tabela from './pages/TabelaMedidas'
 
 import './styles/global.css'
 
@@ -16,9 +15,8 @@ function App() {
         <Header />
         <Routes>
           <Route path='/' element={<Home />} />
-          <Route path='/doces' element={<Doces />} />
-          <Route path='/salgados' element={<Salgados />} />
           <Route path='/sobre' element={<Sobre />} />
+          <Route path='/tabelamedidas' element={<Tabela />} />
         </Routes>
         <Footer />
       </Router>

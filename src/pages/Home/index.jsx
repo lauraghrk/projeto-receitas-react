@@ -1,6 +1,8 @@
+import SecaoReceitas from '../../components/SecaoReceitas'
+
 function Home() {
     return (
-        <h2>HOME</h2>
+        <SecaoReceitas />        
     )
 }
 

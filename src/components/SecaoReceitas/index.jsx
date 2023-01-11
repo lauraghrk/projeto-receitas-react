@@ -5,7 +5,6 @@ import './styles.css'
 function SecaoReceitas() {
     return (
         <section className='secaoReceitas'>
-            <h2 className='tituloSecao'>Destaques</h2>
             <div className="receitas">
                 {receitas.map((receita) => {
                     return (
