@@ -1,6 +1,9 @@
 function Receita () {
     return (
-        <h3>Título receita</h3>
+        <section className="container">
+            <h3>Título receita</h3>
+            
+        </section>
     )
 }
 

@@ -6,6 +6,7 @@ import Footer from './components/Footer'
 import Home from './pages/Home'
 import Sobre from './pages/Sobre'
 import Tabela from './pages/TabelaMedidas'
+import Receita from './components/Receita'
 
 import './styles/global.css'
 
@@ -17,6 +18,7 @@ function App() {
           <Route path='/' element={<Home />} />
           <Route path='/sobre' element={<Sobre />} />
           <Route path='/tabelamedidas' element={<Tabela />} />
+          <Route path='/receita' element={<Receita />}/>
         </Routes>
         <Footer />
       </Router>
