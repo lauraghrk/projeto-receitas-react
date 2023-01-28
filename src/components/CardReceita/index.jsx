@@ -1,14 +1,15 @@
 import { Link } from 'react-router-dom'
 import './styles.css'
 
-function CardReceita({nome, descricao, imagem}) {
+function CardReceita({receita}) {
     return (
-        <div className="card">
-            <img src={imagem} alt="foto da receita" />
-            <h3>{nome}</h3>
-            <p>{descricao}</p>
-            <Link to={"/receita"}>Ver tudo</Link>
-        </div>
+        <Link to={"/receita/" + receita.id}>
+            <div className="card">
+                <img src={receita.imagem} alt="foto da receita" />
+                <h3>{receita.nome}</h3>
+                <p>{receita.descricao}</p>
+            </div>
+        </Link>
     )
 }
 export default CardReceita

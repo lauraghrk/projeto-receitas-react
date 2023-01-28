@@ -1,8 +1,10 @@
-function Receita () {
+import './styles.css'
+
+function Receita({receita}) {
     return (
         <section className="container">
-            <h3>Título receita</h3>
-            
+            <h3>{receita.nome}</h3>
+            <p>{receita.ingredientes}</p>
         </section>
     )
 }

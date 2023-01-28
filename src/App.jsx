@@ -6,7 +6,7 @@ import Footer from './components/Footer'
 import Home from './pages/Home'
 import Sobre from './pages/Sobre'
 import Tabela from './pages/TabelaMedidas'
-import Receita from './components/Receita'
+import Receita from './pages/ReceitaCompleta'
 
 import './styles/global.css'
 
@@ -18,7 +18,8 @@ function App() {
           <Route path='/' element={<Home />} />
           <Route path='/sobre' element={<Sobre />} />
           <Route path='/tabelamedidas' element={<Tabela />} />
-          <Route path='/receita' element={<Receita />}/>
+          <Route path='/receita/:id' element={<Receita />}/>
+          <Route path='*' element={"Erro"} />
         </Routes>
         <Footer />
       </Router>
