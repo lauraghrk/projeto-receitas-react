@@ -2,7 +2,22 @@
     font-family: var(--fontecorpo);
     margin: 15px;
     max-width: 200px;
+
+    color: var(--cor05);
 }
-img {
+.card:visited {
+    color: var(--cor05);
+}
+.card:hover {
+    color: var(--cor03);
+}
+.card:active {
+    text-shadow: -1.5px -1.5px 2px #dddddd;
+    color: #8c5b01;
+}
+.card img {
     width: 200px;
+}
+a {
+    text-decoration: none;
 }
