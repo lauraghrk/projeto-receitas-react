@@ -1,0 +1,23 @@
+.msg-erro {
+    color: var(--cor05);
+    text-align: center;
+    margin: 30px;
+}
+.msg-erro > h4 {
+    margin: 15px;
+    font-size: 1.5em;
+}
+.msg-erro > a {
+    font-size: 1.2em;
+    font-weight: 700;
+}
+.msg-erro > a:visited {
+    color: var(--cor05);
+}
+.msg-erro > a:hover {
+    color: var(--cor03);
+}
+.msg-erro > a:active {
+    text-shadow: -1px -1px 2px #dddddd;
+    color: #8c5b01;
+}

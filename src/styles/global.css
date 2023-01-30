@@ -21,3 +21,13 @@
 body {
     background-color: var(--cor04);
 }
+
+.container {
+    margin: 50px auto;
+    background-color: white;
+    border-radius: 5px;
+    width: 75%;
+
+    font-family: var(--fontecorpo);
+    padding: 5px;
+}

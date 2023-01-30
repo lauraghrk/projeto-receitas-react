@@ -2,6 +2,7 @@ import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 
 import Header from './components/Header'
 import Footer from './components/Footer'
+import Erro from './components/Erro'
 
 import Home from './pages/Home'
 import Sobre from './pages/Sobre'
@@ -19,7 +20,7 @@ function App() {
           <Route path='/sobre' element={<Sobre />} />
           <Route path='/tabelamedidas' element={<Tabela />} />
           <Route path='/receita/:id' element={<Receita />}/>
-          <Route path='*' element={"Erro"} />
+          <Route path='*' element={<Erro />} />
         </Routes>
         <Footer />
       </Router>
