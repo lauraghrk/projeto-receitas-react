@@ -9,8 +9,8 @@
                 "2 ½ bananas",
                 "2 ovos",
                 "1 ½ xícaras de açúcar",
-                "½ xícaras de óleo",
-                "½ xícaras de leite",
+                "½ xícara de óleo",
+                "½ xícara de leite",
                 "1 colher de chá de canela em pó",
                 "1 pitada de sal",
                 "2 xícaras de farinha",
@@ -36,25 +36,63 @@
                 "10g Sal",
                 "5g Fermento Biológico"
             ],
-            "preparo": "modo de preparo",
+            "preparo": [
+                "Misturar todos os ingredientes em uma tigela e deixar descansar por 10 minutos.",
+                "Realizar 10 dobras na massa, pegando por um dos lados e dobrando até o centro.",
+                "Repetir o tempo de descanso e as dobras por mais 3 vezes.",
+                "Ao final das etapas de dobras, deixar a massa crescer por 1 hora.",
+                "Formatar a massa e transferir para uma panela de ferro. Deixar crescer por mais 40 minutos.",
+                "Assar a 200°C por 30 minutos com tampa e mais 20 minutos sem tampa, até dourar.",
+                "Deixar esfriar por no mínimo 15 minutos antes de cortar."
+            ],
             "imagem": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
         },
         {
             "id": 2,
-            "categoria": "cat",
-            "nome": "Nome da Receita 3",
-            "descricao": "Descrição curta da receita",
-            "ingredientes": "lista",
-            "preparo": "modo de preparo",
+            "categoria": "doce",
+            "nome": "Geleia de Pimenta",
+            "descricao": "Geleia de pimenta a base de maçã e suco de laranja.",
+            "ingredientes": [
+                "2 pimentas dedo de moça em cubinhos",
+                "200ml de suco de laranja",
+                "1 xícara de açúcar",
+                "1 maçã grande ralada",
+                "1 dente de alho inteiro",
+                "Sal a gosto"
+
+            ],
+            "preparo": [
+                "Misturar todos os ingredientes em uma panela e levar ao fogo médio.",
+                "Quando ferver, reduzir o fogo e deixar cozinhar por 20 minutos.",
+                "Transferir para um vidro limpo e deixar esfriar.",
+                "Guardar na geladeira."
+            ],
             "imagem": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
         },
         {
             "id": 3,
-            "categoria": "cat",
-            "nome": "Nome da Receita 4",
-            "descricao": "Descrição curta da receita",
-            "ingredientes": "lista",
-            "preparo": "modo de preparo",
+            "categoria": "doce",
+            "nome": "Bolo de Chocolate",
+            "descricao": "Bolo de chocolate escuro, fofinho e não muito doce.",
+            "ingredientes": [
+                "2 colheres de manteiga sem sal",
+                "¾ xícara de óleo",
+                "200ml de água",
+                "½ xícara de cacau em pó",
+                "1 ½ xícara de açúcar refinado",
+                "1 pitada de sal",
+                "2 xícaras de farinha de trigo",
+                "1 colher de sopa de fermento",
+                "2 ovos"
+            ],
+            "preparo": [
+                "Em uma tigela, misturar todos os ingredientes secos.",
+                "Em uma panelinha, misturar a manteiga, o óleo e a água e levar ao fogo até levantar fervura.",
+                "Adicionar a mistura quente nos secos de uma só vez e misturar até ficar homogêneo.",
+                "Adicionar os ovos um a um, misturando bem cada um.",
+                "Transferir a massa para uma forma untada e enfarinhada.",
+                "Levar ao forno aquecido a 180°C por aproximatamente 40 minutos ou até assado por inteiro"
+            ],
             "imagem": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
         }
     ]

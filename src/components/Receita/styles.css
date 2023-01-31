@@ -1,7 +1,23 @@
 .receita > h3{
-    margin: 10px;
+    margin: 15px;
+    font-size: 1.3em;
+}
+.receita > h4 {
+    margin: 5px;
+}
+.receita .ingredientes {
+    list-style-type: square;
+    margin: 10px 25px;
+}
+.receita .preparo {
+    list-style-type: none;
+    margin: 10px 25px;
+}
+.receita .preparo > li {
+    margin-bottom: 5px;
 }
 .receita > img {
-    width: 400px;
-    margin: 50px;
+    width: 60%;
+    margin: 30px auto;
+    display: block;
 }
