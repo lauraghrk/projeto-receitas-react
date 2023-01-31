@@ -2,7 +2,9 @@ import SecaoReceitas from '../../components/SecaoReceitas'
 
 function Home() {
     return (
-        <SecaoReceitas />        
+        <section className='container'>
+            <SecaoReceitas />
+        </section>        
     )
 }
 

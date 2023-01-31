@@ -5,9 +5,7 @@ import './styles.css'
 function SecaoReceitas() {
     return (
         <section className='secaoReceitas'>
-            <div className="receitas">
-                {receitas.map((receita) => <CardReceita receita={receita} />)}
-            </div>
+            {receitas.map((receita) => <CardReceita receita={receita} />)}
         </section>
     )
 }

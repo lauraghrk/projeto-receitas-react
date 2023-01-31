@@ -6,7 +6,9 @@ function ReceitaCompleta() {
     let {id} = useParams()
     let receita = receitas[id]
     return (
-        <Receita receita={receita} />
+        <section className='container'>
+            <Receita receita={receita} />
+        </section>
     )
 }
 

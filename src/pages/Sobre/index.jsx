@@ -10,7 +10,6 @@ function Sobre() {
             <p>
                 E juntando a fome com a vontade de cozinhar, pretendo utilizar o site como repositório das minhas receitas favoritas, e quem sabe compartilhá-las com os amigos diretamente do site.
             </p>
-
         </section>
     )
 }

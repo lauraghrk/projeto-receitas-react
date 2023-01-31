@@ -31,3 +31,13 @@ body {
     font-family: var(--fontecorpo);
     padding: 5px;
 }
+.container > h2 {
+    margin: 15px 30px;
+    font-size: 2em;
+}
+.container > p {
+    margin: 10px 30px;
+    font-size: 1em;
+    text-indent: 30px;
+    text-align: justify;
+}
