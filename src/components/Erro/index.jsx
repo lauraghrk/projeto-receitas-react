@@ -3,12 +3,12 @@ import './styles.css'
 
 function Erro() {
     return (
-        <div className='container'>
+        <section className='container'>
             <div className='msg-erro'>
                 <h4>Ops! Essa página não existe.</h4>
                 <Link to={"/"}>Retorne para a página inicial.</Link>
             </div>
-        </div>
+        </section>
     )
 }
 

@@ -6,7 +6,6 @@
             "nome": "Bolo de Banana",
             "descricao": "Bolo de banana fofinho de liquidificador.",
             "ingredientes": [
-                "2 xícaras de farinha",
                 "2 ½ bananas",
                 "2 ovos",
                 "1 ½ xícaras de açúcar",
@@ -14,10 +13,16 @@
                 "½ xícaras de leite",
                 "1 colher de chá de canela em pó",
                 "1 pitada de sal",
+                "2 xícaras de farinha",
                 "½ colher de sopa de fermento químico",
                 "½ colher de sopa de bicarbonato de sódio"
             ],
-            "preparo": "modo de preparo",
+            "preparo": [
+                "Untar e enfarinhar uma forma. Aquecer o forno a 180°C.",
+                "Bater as bananas, os ovos, o açúcar, o óleo, o leite, a canela e o sal no liquidificador.",
+                "Acrescentar a farinha, o fermento e o bicarbonato e bater só até misturar.",
+                "Transferir a massa para a forma untada e levar ao forno aquecido por aproximadamente 40 minutos."
+            ],
             "imagem": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
         },
         {
@@ -25,7 +30,12 @@
             "categoria": "salgado",
             "nome": "Pão das 10 dobras",
             "descricao": "Pão rústico sem sova.",
-            "ingredientes": "lista",
+            "ingredientes": [
+                "500g Farinha de Trigo",
+                "350g Água morna",
+                "10g Sal",
+                "5g Fermento Biológico"
+            ],
             "preparo": "modo de preparo",
             "imagem": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
         },

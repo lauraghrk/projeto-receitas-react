@@ -2,9 +2,9 @@ import './styles.css'
 
 function Footer() {
     return (
-        <div className="footer">
+        <footer className="footer">
             <p>Desenvolvido por <a href="https://github.com/lauraghrk" target="blank">Laura Gehrke</a></p>
-        </div>
+        </footer>
     )
 }
 
