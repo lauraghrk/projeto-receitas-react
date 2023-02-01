@@ -3,10 +3,9 @@
     background-color: var(--cor05);
     text-align: center;
     height: 35px;
-    
-    position: absolute;
-    bottom: 0;
     width: 100%;
+    position: fixed;
+    bottom: 0;
 }
 .footer > p {
     color: var(--cor04);
