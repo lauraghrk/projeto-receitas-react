@@ -1,5 +1,5 @@
 import CardReceita from '../CardReceita'
-import { receitas } from '../../receitas.json'
+import { receitas } from '../../receitas'
 import './styles.css'
 
 function SecaoReceitas() {

@@ -10,6 +10,9 @@ function Sobre() {
             <p>
                 E juntando a fome com a vontade de cozinhar, pretendo utilizar o site como repositório das minhas receitas favoritas, e quem sabe compartilhá-las com os amigos diretamente do site.
             </p>
+            <p>
+                As imagens utilizadas são apenas ilustrativas e não são de minha autoria, todas foram retiradas do site <a href='https://br.freepik.com/' className='link-fotos'>Freepik</a>. 
+            </p>
         </section>
     )
 }

@@ -23,7 +23,7 @@
                 "Acrescentar a farinha, o fermento e o bicarbonato e bater só até misturar.",
                 "Transferir a massa para a forma untada e levar ao forno aquecido por aproximadamente 40 minutos."
             ],
-            "imagem": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "imagem": "https://img.freepik.com/fotos-gratis/bolo-de-banana_1205-1894.jpg?w=996&t=st=1675347890~exp=1675348490~hmac=59a8b8a0649a35d98e5363a98cb7354c1aec597030047f27dd18274b205b314a"
         },
         {
             "id": 1,
@@ -45,7 +45,7 @@
                 "Assar a 200°C por 30 minutos com tampa e mais 20 minutos sem tampa, até dourar.",
                 "Deixar esfriar por no mínimo 15 minutos antes de cortar."
             ],
-            "imagem": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "imagem": "https://img.freepik.com/fotos-gratis/vista-frontal-em-fatias-de-pao-fresco_23-2148613522.jpg?w=996&t=st=1675347945~exp=1675348545~hmac=f6d1fe05f727ad58637019dc8e1a8999cb07d0cb8693e6f7e6a448abd6aefa11"
         },
         {
             "id": 2,
@@ -67,7 +67,7 @@
                 "Transferir para um vidro limpo e deixar esfriar.",
                 "Guardar na geladeira."
             ],
-            "imagem": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "imagem": "https://img.freepik.com/fotos-premium/geleia-de-pimenta-em-jarra-de-vidro-sobre-a-mesa_434193-385.jpg?w=996"
         },
         {
             "id": 3,
@@ -93,7 +93,126 @@
                 "Transferir a massa para uma forma untada e enfarinhada.",
                 "Levar ao forno aquecido a 180°C por aproximatamente 40 minutos ou até assado por inteiro"
             ],
-            "imagem": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "imagem": "https://img.freepik.com/fotos-gratis/alto-angulo-do-conceito-de-bolo-de-chocolate_23-2148769262.jpg?w=996&t=st=1675348098~exp=1675348698~hmac=88378b55b66ed24cedcbd1347b3bbccfdb386e354df1db0f105ed93cb1acf12f"
+        },
+        {
+            "id": 4,
+            "categoria": "doce",
+            "nome": "Brownie",
+            "descricao": "Brownie básico de chocolate amargo.",
+            "ingredientes": [
+                "200g chocolate meio amargo",
+                "100g de manteiga sem sal",
+                "3 ovos",
+                "1/2 xícara de açúcar branco",
+                "1/2 xícara de açúcar mascavo",
+                "1 colher de sopa de essência de baunilha",
+                "1 pitada de sal",
+                "1 xícara de farinha"
+            ],
+            "preparo": [
+                "Em uma tigela, derreter a manteiga com o chocolate.",
+                "Adicionar os ovos e misturar bem um a um.",
+                "Adicionar o açúcar, a baunilha e o sal e misturar.",
+                "Adicionar a farinha e misturar até ficar homogêneo.",
+                "Transferir para uma forma untada e enfarinhada.",
+                "Assar a 180 C por aproximadamente 30 minutos."
+            ],
+            "imagem": "https://img.freepik.com/fotos-premium/brownies-de-chocolate-delicioso-caseiro-bolo-de-chocolate_80373-866.jpg?w=996"
+        },
+        {
+            "id": 5,
+            "categoria": "salgado",
+            "nome": "Massa de Pizza",
+            "descricao": "Massa básica para pizza napolitana.",
+            "ingredientes": [
+                "500g de farinha",
+                "2 colheres de chá de fermento",
+                "350g de água",
+                "30ml de azeite",
+                "2 colheres de chá sal",
+                "2 colheres de chá açúcar"
+            ],
+            "preparo": [
+                "Em uma tigela, misturar todos os ingredientes e cobrir com um pano úmido.",
+                "Levar a geladeira por 6 horas para fermentar.",
+                "Tirar da geladeira aproximadamente 2 horas antes de usar.",
+                "Abrir a massa, adicionar os recheios e assar em forno a 220°."
+            ],
+            "imagem": "https://img.freepik.com/fotos-premium/as-maos-masculinas-amassam-um-pedaco-redondo-de-massa_116441-643.jpg?w=996"
+        },
+        {
+            "id": 6,
+            "categoria": "doce",
+            "nome": "Pudim",
+            "descricao": "Pudim clássico de leite condensado.",
+            "ingredientes": [
+                "1 xícara de açúcar",
+                "2 pitadas de sal",
+                "1 caixa de leite condensado",
+                "1 ½ medidas de leite",
+                "3 ovos",
+                "1 pitada de sal",
+                "Essência de baunilha"
+            ],
+            "preparo": [
+                "CARAMELO:",
+                "Em uma panelinha, derreta o açúcar com o sal até obter um caramelo.",
+                "Transfira o caramelo ainda quente para uma forma de pudim, espalhando por todo o fundo da forma.",
+                "Atenção: utilize um pano seco para manusear a forma pois ficará quente.",
+                "PUDIM:",
+                "Misture bem os demais ingredientes em uma vasilha e transfira para a forma com o caramelo.",
+                "Deixe a mistura descansar por 10 minutos apra sair as bolhas de ar, enquanto isso pré-aqueça o forno a 150°C.",
+                "Posicione a forma do pudim sobre uma forma maior com um pouco de água quente, formando um banho-maria e cubra com outra forma ou com papel alumínio.",
+                "Leve ao forno por aproximadamente 1 hora ou até completamente cozido.",
+                "Retire do forno e deixe esfriar até temperatura ambiente, depois leve a geladeira por no mínimo 4 horas.",
+                "Depois de gelado, aqueça levemente o fundo da forma na boca do fogão para soltar e vire em um recipiente para servir."
+            ],
+            "imagem": "https://img.freepik.com/fotos-premium/pudim-de-leite-condensado-com-molho-de-caramelo_66379-5.jpg?w=996"
+        },
+        {
+            "id": 7,
+            "categoria": "salgado",
+            "nome": "Pão Naan",
+            "descricao": "Pão estilo indiano de frigideira.",
+            "ingredientes": [
+                "1 1/2 xícaras de farinha de trigo",
+                "2/3 xícara de iogurte natural",
+                "1/2 colher de chá de sal",
+                "2 colheres de chá de fermento químico"
+            ],
+            "preparo": [
+                "Em uma tigela, misturar todos os ingredientes até formar uma massa.",
+                "Sovar durante aguns minutos para ficar um pouco elástica.",
+                "Cobrir e deixar descansar por 20 minutos.",
+                "Dividir a massa em 6 e modelar uma bola com cada pedaço.",
+                "Abrir cada massa com rolo até ficar com aproximadamente 0,5cm de espessura.",
+                "Assar em uma frigideira bem quente por 1 minuto de cada lado ou até formar pontos dourados na massa."
+            ],
+            "imagem": "https://img.freepik.com/fotos-premium/paes-naan-na-vista-superior-do-espaco-de-copia-de-madeira-escura_753131-4048.jpg?w=996"
+        },
+        {
+            "id": 8,
+            "categoria": "doce",
+            "nome": "Bolo de Fubá Cremoso",
+            "descricao": "Bolo de fubá cremoso de liquidificador.",
+            "ingredientes": [
+                "1 xícara de chá de fubá",
+                "3 ovos",
+                "3 xícara de chá de leite",
+                "2 xícara de chá de açúcar",
+                "½  xícara de chá de queijo parmesão ralado fino",
+                "2 colheres de sopa de manteiga em temperatura ambiente",
+                "2 colheres de sopa de farinha de trigo",
+                "¾ xícara de chá de coco seco ralado",
+                "1 colher de sopa de fermento em pó"
+            ],
+            "preparo": [
+                "Bater todos os ingredientes no liquidificador, deixando o coco e o fermento por último (só misturar)",
+                "Transferir para uma forma untada e enfarinhada.",
+                "Assar em forno aquecido a 180°C por 30 a 40 minutos, até dourar por cima e assar por baixo."
+            ],
+            "imagem": "https://img.freepik.com/fotos-gratis/bolo-de-semolina-de-sobremesa-turca-caseiro_114579-13647.jpg?w=996&t=st=1675705297~exp=1675705897~hmac=bea1687ca74ec2502dfac4ef32d57e72131100e6ecad4732670a2d1f0825d17c"
         }
     ]
 }

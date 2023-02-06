@@ -1,0 +1,15 @@
+.link-fotos {
+    color: var(--cor02);
+    font-weight: 600;
+}
+
+.link-fotos:visited {
+    color: var(--cor02);
+}
+.link-fotos:hover {
+    color: var(--cor01);
+}
+.link-fotos:active {
+    text-shadow: -1.5px -1.5px 2px #dddddd;
+    color: #8c5b01;
+}

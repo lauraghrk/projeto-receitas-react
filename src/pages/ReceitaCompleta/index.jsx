@@ -1,4 +1,4 @@
-import { receitas } from '../../receitas.json'
+import { receitas } from '../../receitas'
 import { useParams } from 'react-router-dom'
 import Receita from "../../components/Receita"
 
