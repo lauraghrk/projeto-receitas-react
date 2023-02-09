@@ -13,6 +13,9 @@ function Sobre() {
             <p>
                 As imagens utilizadas são apenas ilustrativas e não são de minha autoria, todas foram retiradas do site <a href='https://br.freepik.com/' className='link-fotos'>Freepik</a>. 
             </p>
+            <p>
+                Meu perfil no <a href='https://www.linkedin.com/in/laura-gehrke-78640b16b/'>LinkedIn</a>
+            </p>
         </section>
     )
 }

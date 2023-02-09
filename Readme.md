@@ -1,10 +1,9 @@
 # Sobre o projeto
-O site "Vou Ter Que Cozinhar" é uma Single Page Application que estou desenvolvendo em React para demonstrar os conhecimentos adquiridos nesse framework.
+O site "Vou Ter Que Cozinhar" é uma Single Page Application que estou desenvolvendo em React enquanto estudo este framework.
 
-Para clonar esse repositório, abra o Git Bash na pasta onde deseja que ele seja adicionado e execute seguinte comando:  
-`$ git clone https://github.com/lauraghrk/projeto-receitas-react.git`
+O site está publicado através do [Netlify](https://www.netlify.com/). Acesse: [Vou Ter Que Cozinhar](https://main--glistening-sunshine-fc761c.netlify.app/).
 
-Para rodar utilizando o Vite, o comando é: `npm run dev`
+Se for clonar esse projeto, utilize o Vite para rodar localmente, o comando é: `npm run dev`
 
 ## Tecnologias utilizadas
 * React - versão: 18.2.0 
