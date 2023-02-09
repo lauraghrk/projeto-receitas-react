@@ -38,6 +38,5 @@ body {
 .container > p {
     margin: 10px 30px;
     font-size: 1em;
-    text-indent: 30px;
     text-align: justify;
 }

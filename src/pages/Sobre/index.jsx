@@ -11,10 +11,10 @@ function Sobre() {
                 E juntando a fome com a vontade de cozinhar, pretendo utilizar o site como repositório das minhas receitas favoritas, e quem sabe compartilhá-las com os amigos diretamente do site.
             </p>
             <p>
-                As imagens utilizadas são apenas ilustrativas e não são de minha autoria, todas foram retiradas do site <a href='https://br.freepik.com/' className='link-fotos'>Freepik</a>. 
+                As imagens utilizadas são apenas ilustrativas e não são de minha autoria, todas foram retiradas do site <a href='https://br.freepik.com/' className='link-sobre'>Freepik</a>. 
             </p>
             <p>
-                Meu perfil no <a href='https://www.linkedin.com/in/laura-gehrke-78640b16b/'>LinkedIn</a>
+                Você pode me encontrar pelo meu perfil no <a href='https://www.linkedin.com/in/laura-gehrke-78640b16b/' className='link-sobre'>LinkedIn</a>.
             </p>
         </section>
     )

@@ -1,7 +1,7 @@
 # Sobre o projeto
 O site "Vou Ter Que Cozinhar" é uma Single Page Application que estou desenvolvendo em React enquanto estudo este framework.
 
-O site está publicado através do [Netlify](https://www.netlify.com/). Acesse: [Vou Ter Que Cozinhar](https://main--glistening-sunshine-fc761c.netlify.app/).
+O site está publicado através do [Netlify](https://www.netlify.com/). Acesse: [Vou Ter Que Cozinhar](https://site-de-receitas.netlify.app).
 
 Se for clonar esse projeto, utilize o Vite para rodar localmente, o comando é: `npm run dev`
 
