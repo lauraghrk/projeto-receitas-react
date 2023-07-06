@@ -3,13 +3,17 @@ O site "Vou Ter Que Cozinhar" é uma Single Page Application que estou desenvolv
 
 O site está publicado através do [Netlify](https://www.netlify.com/). Acesse: [Vou Ter Que Cozinhar](https://site-de-receitas.netlify.app).
 
-Se for clonar esse projeto, utilize o Vite para rodar localmente, o comando é: `npm run dev`
+## Para rodar localmente com docker
+**É necessário ter o docker instalado**
+* No terminal de comando, navegue até a pasta do projeto;
+* Rode o comando `docker build -t receitas .`
+* E em seguida `docker run -p 80:8080 receitas`
+* No navegador, acesse `localhost:8080`
 
 ## Tecnologias utilizadas
-* React - versão: 18.2.0 
-* VSCode - versão: 1.74.3
-* ReactRouter - versão: 6.6.2
-* Vite - versão: 3.1.0
+* React
+* Vite
+* Docker
 
 ## Próximas etapas
 As próximas etapas que pretendo implementar nesse projeto são:  
